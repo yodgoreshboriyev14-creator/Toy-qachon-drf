@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d494d5e-7612-4879-b2eb-74a7b51c8b90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Toy qachon_DRF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4d494d5e-7612-4879-b2eb-74a7b51c8b90" name="Changes" comment="new message">
+      <change afterPath="$PROJECT_DIR$/apps/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/root/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +91,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1789377575385</updated>
-      <workItem from="1789377576401" duration="783000" />
+      <workItem from="1789377576401" duration="1276000" />
     </task>
+    <task id="LOCAL-00001" summary="new message">
+      <option name="closed" value="true" />
+      <created>1789378381599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789378381599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new message" />
+    <option name="LAST_COMMIT_MESSAGE" value="new message" />
   </component>
 </project>

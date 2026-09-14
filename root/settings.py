@@ -1,5 +1,7 @@
-
+from os.path import join
 from pathlib import Path
+
+from django.conf.global_settings import STATIC_ROOT
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -20,6 +22,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
@@ -89,9 +92,19 @@ USE_TZ = True
 
 
 STATIC_URL = 'static/'
+STATIC_ROOT = join(BASE_DIR, 'static')
+
+MEDIA_URL = 'media/'
+MEDIA_ROOT = join(BASE_DIR, 'media')
 
 MAILERS = {
     'default': {
         'BACKEND': 'django.core.mail.backends.console.EmailBackend',
     },
+}
+
+REST_FRAMEWORK = {
+    "DEFAULT_PERMISSION_CLASSES": [
+        "rest_framework.permissions.AllowAny"
+    ]
 }
