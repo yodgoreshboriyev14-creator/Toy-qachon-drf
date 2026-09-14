@@ -1,0 +1,11 @@
+TO'Y REJALASHTIRUVCHI — VEB-SAYT
+
+1. Login, Register -->
+2. Bosh sahifa (dashboard, to'yga qolgan kun) -->
+3. Mehmonlar ro'yxati (Guests) -->
+4. Byudjet (Budget) -->
+5. Vazifalar / Timeline (Tasks) -->
+6. Vendorlar katalogi -->
+7. Mening profilim -->
+8. Sozlamalar (til, premium) -->
+9. Admin panel -->
